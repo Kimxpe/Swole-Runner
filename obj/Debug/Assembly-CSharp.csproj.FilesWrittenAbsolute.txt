@@ -19,3 +19,24 @@
 /Users/Kim/Desktop/Endless 3D Runner/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/Kim/Desktop/Endless 3D Runner/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/Kim/Desktop/Endless 3D Runner/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Kim/Desktop/Swole-Runner/obj/Debug/Assembly-CSharp.dll
+/Users/Kim/Desktop/Swole-Runner/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/UnityEngine.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/UnityEditor.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Kim/Desktop/Swole-Runner/Temp/bin/Debug/Assembly-CSharp.dll

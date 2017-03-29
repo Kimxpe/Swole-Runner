@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{14FF67B4-736A-3277-236A-427985EA2A81}</ProjectGuid>
+    <ProjectGuid>{A97589A8-A726-C9A1-F93F-C8CACAFC1C9B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,6 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DestroyGround.cs" />
+     <Compile Include="Assets\DestroyObject.cs" />
+     <Compile Include="Assets\RestartAfterFall.cs" />
      <Compile Include="Assets\Scripts\CameraMotor.cs" />
      <Compile Include="Assets\Scripts\ExitToMain.cs" />
      <Compile Include="Assets\Scripts\PlatformManager.cs" />
